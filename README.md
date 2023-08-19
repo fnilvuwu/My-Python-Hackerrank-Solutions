@@ -98,6 +98,7 @@
   + [Introduction to Sets](Introduction_to_Sets.py)
   + [Integers Come in All Sizes](python_integers_come_in_all_sizes.py)
   + [Set.symmetric_difference() Operation](set_SymmetricDifference.py)
+  + [Symmetric Difference](Symmetric_Difference.py)
   + [Set Mutations](py_set_mutations.py)
   + [Triangle Quest](Triangle_Quest.py)
   + [The Captain's Room](the_Captains_Room.py)
